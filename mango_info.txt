@@ -1,0 +1,4 @@
+Username: enter_username
+Password: enter_password
+DB_Name: enter_db_name
+MangoDB_Atlas_Link: pase_link_from_mangoDb_atlas
